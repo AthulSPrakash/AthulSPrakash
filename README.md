@@ -43,12 +43,9 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Athul's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AthulSPrakash&show_icons=true&hide_border=true" />
-
-</details>
+<img align="left" alt="Athul's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AthulSPrakash&show_icons=true&hide_border=true" />
 
 [website]: https://athulsprakash.netlify.app
 [twitter]: https://twitter.com/AthulSPrakash
