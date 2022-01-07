@@ -47,7 +47,7 @@
 
 ---
 
-<img align="left" alt="Athul's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AthulSPrakash&show_icons=true&hide_border=true&count_private=true&&theme=merko" />
+<img align="left" alt="Athul's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AthulSPrakash&show_icons=true&hide_border=true&count_private=true&&theme=radical" />
 
 [website]: https://athulsprakash.netlify.app
 [twitter]: https://twitter.com/AthulSPrakash
