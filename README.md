@@ -3,7 +3,7 @@
 ## I'm a Student, Developer, Artist and Gamer!
 
 - 🌱 I’m pursuing a career in full-stack web development
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Contribute more to Open Source projects & get an internship/job
 - ✨ Extra: I love anime & play football/soccer
 
