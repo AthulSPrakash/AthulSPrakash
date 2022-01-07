@@ -43,11 +43,11 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AthulSPrakash&langs_count=6&layout=compact)](https://github.com/AthulSPrakash/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AthulSPrakash&layout=compact&langs_count=6)](https://github.com/AthulSPrakash/github-readme-stats)
 
 ---
 
-<img align="left" alt="Athul's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AthulSPrakash&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="Athul's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AthulSPrakash&show_icons=true&hide_border=true&count_private=true&&theme=tokyonight" />
 
 [website]: https://athulsprakash.netlify.app
 [twitter]: https://twitter.com/AthulSPrakash
