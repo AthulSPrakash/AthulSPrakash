@@ -1,4 +1,4 @@
-### Hi , I'm Athul - [AthulSPrakash][website] 🔵💊🔴
+# Hi , I'm Athul - [AthulSPrakash][website] 🔵💊🔴
 
 ## I'm a Student, Developer, Artist and Gamer!
 
@@ -7,7 +7,7 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects & get an internship/job
 - ✨ Extra: I love anime & play football/soccer
 
-### Connect with me:
+## Connect with me
 
 [<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Athul | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -18,7 +18,7 @@
 
 <br />
 
-### Languages and Tools:
+## Languages and Tools
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
