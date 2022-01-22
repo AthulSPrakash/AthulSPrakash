@@ -14,6 +14,7 @@
 [<img align="left" alt="Athul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Athul | Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
 [<img align="left" alt="Athul | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Athul | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
 <br />
 
@@ -54,3 +55,4 @@
 [instagram]: https://www.instagram.com/athulsprakash_
 [linkedin]: https://www.linkedin.com/in/athul-s-prakash-071975209
 [codepen]: https://codepen.io/athulsprakash
+[medium]: https://medium.com/@athulsprakash
