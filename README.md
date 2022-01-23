@@ -4,7 +4,7 @@
 
 - 🌱 I’m pursuing a career in full-stack web development
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Contribute more to Open Source projects & get an internship/job
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ✨ Extra: I love anime & play football/soccer
 
 ## Connect with me
