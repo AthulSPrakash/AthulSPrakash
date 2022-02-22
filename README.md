@@ -1,10 +1,10 @@
 # Hi , I'm Athul - [AthulSPrakash][website] 🔵💊🔴
 
-## I'm a Software Developer, Artist and Gamer!
+## I'm a software developer and artist!
 
 - 🌱 I’m pursuing a career in full-stack web development
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to open source projects
 - ✨ Extra: I love anime & play football/soccer
 
 ## Connect with me
