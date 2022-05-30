@@ -1,6 +1,4 @@
-# Hi , I'm Athul - [AthulSPrakash][website] 🔵💊🔴
-
-## I'm a software developer and artist!
+## Hi , I'm Athul. I'm a software developer and artist!
 
 - 🌱 I’m pursuing a career in full-stack web development
 - 👯 I’m looking to collaborate with other developers
