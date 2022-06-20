@@ -3,7 +3,7 @@
 - 🌱 I’m pursuing a career in full-stack web development
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Contribute more to open source projects
-- ✨ I love video games & anime
+- ✨ I love video games
 
 ## Connect with me
 
