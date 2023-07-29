@@ -1,8 +1,8 @@
-## Hi , I'm a software developer and artist!
+## Hi, I'm a software developer and artist!
 
 - 🌱 I’m pursuing a career in full-stack web development
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Contribute more to open source projects
+- 🥅 2023 Goals: Learn game development more
 - ✨ I love video games
 
 ## Connect with me
@@ -11,8 +11,6 @@
 [<img align="left" alt="Athul | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Athul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Athul | Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
-[<img align="left" alt="Athul | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Athul | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
 <br />
 
@@ -50,7 +48,5 @@
 
 [website]: https://athulsprakash.netlify.app
 [twitter]: https://twitter.com/AthulSPrakash
-[instagram]: https://www.instagram.com/athulsprakash_
 [linkedin]: https://www.linkedin.com/in/athul-s-prakash-071975209
 [codepen]: https://codepen.io/athulsprakash
-[medium]: https://medium.com/@athulsprakash
